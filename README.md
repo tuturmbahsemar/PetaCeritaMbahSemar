@@ -4,7 +4,7 @@ Peta interaktif cerita Nusantara dari kanal **Tutur Mbah Semar**: sejarah, mitos
 
 Daerah yang menyala sudah dituturkan, yang gelap belum dibuka. Pilih sebuah daerah untuk melihat ceritanya, dan usulkan kisah dari kampungmu lewat kotak usul di bawah peta.
 
-🗺️ Buka peta: 
+🗺️ Buka peta: https://tuturmbahsemar.github.io/PetaCeritaMbahSemar/
 
 ## Cara memperbarui
 Semua isi cerita ada di satu berkas, `cerita.js`. Jadwal tayang, tautan video, dan playlist diubah di sana. Daerah terbuka otomatis pada tanggal tayang video pertamanya.
